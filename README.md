@@ -14,9 +14,8 @@
 # <h3>:gear: Inicializando o Projeto:</h3>
 <ul>
 <li>Inicializar o arquivo index.js (Dentro da pasta api).</li>
+<li>Bash: Node index.js</li>
 </ul>
-
-# Bash: Node index.js
 
 ![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1152225878479224993/image.png)
 
